@@ -16,8 +16,8 @@ Instructions:
 5. Commit your changes with a comment that contains the date of your commit, together with your full name (using `git commit -m "message"`).   
 6. Push your changes to your branch using `git push`, then merge your branch to master using `git merge`.   
 7. For good measure, make sure your repository is up-to-date and everything was synced and merged. 
-  
-  **It helps to use `git status` during the various steps to verify the status of the repository. **   
+    
+**It helps to use `git status` during the various steps to verify the status of the repository.**     
   
       
         
